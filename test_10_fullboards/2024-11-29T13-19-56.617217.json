@@ -1,0 +1,56 @@
+{
+    "timestamp": "2024-11-29T13:19:56.617217",
+    "total_files": 10,
+    "total_files_w_errors": 9,
+    "total_fields": 640,
+    "total_fields_w_errors": 61,
+    "error_ratio_by_files": 0.9,
+    "error_ratio_by_fields": 0.0953125,
+    "error_ratio_by_pieces": {
+        "b": 0.14285714285714285,
+        "k": 0.1,
+        "r": 0.1111111111111111,
+        "p": 0.1,
+        "n": 0.125,
+        "_": 0.00390625,
+        "q": 0.2
+    },
+    "list_of_files_with_errors": [
+        "1b1B1K2-R2B4-7P-3b4-3R2B1-8-3R4-4Qk2.jpeg",
+        "1b1B1Qr1-7p-6r1-2P5-4Rk2-1K6-4B3-8.jpeg",
+        "1b1b1b2-3r4-1rK4b-R7-R2R1k2-2Bp4-2P5-2r5.jpeg",
+        "1B1b1Nn1-8-3p4-2K5-8-B5P1-p7-4k1nb.jpeg",
+        "1B1B1K2-3p1N2-6k1-R7-5P2-4q3-7R-1B6.jpeg",
+        "1b1b1n2-1K1RN1b1-3pbN2-8-4q1k1-4P3-8-2n3N1.jpeg",
+        "1B1B1N2-1r6-n2R2k1-7b-1B6-8-8-Kn6.jpeg",
+        "1b1B1b2-2pK2q1-4p1rB-7k-8-8-3B4-3rb3.jpeg",
+        "1B1b1R2-1b2R3-p7-3N4-4b3-n1BP1k2-2K5-6q1.jpeg"
+    ],
+    "list_of_pieces_in_truth": {
+        "_": 512,
+        "b": 21,
+        "B": 21,
+        "K": 10,
+        "R": 16,
+        "P": 8,
+        "Q": 3,
+        "k": 10,
+        "r": 9,
+        "p": 10,
+        "N": 7,
+        "n": 8,
+        "q": 5
+    },
+    "list_of_errors_by_piece": {
+        "bB": 12,
+        "kK": 9,
+        "bP": 5,
+        "bR": 2,
+        "rR": 5,
+        "pP": 6,
+        "nN": 4,
+        "_N": 11,
+        "_K": 3,
+        "qQ": 4
+    }
+}
